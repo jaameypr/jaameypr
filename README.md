@@ -2,4 +2,4 @@
 - 💻interested in Java, JS, Lua, HTML, CSS
 
 
-- discord: jaamey#6969
+- discord: gerome#6969
