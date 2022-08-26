@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamey</h1>
-<h2 align="center">A passionate frontend developer from Germany</h2>
+<!---<h2 align="center">A passionate fullstack developer from Germany</h2>--->
 
 - 📫 You can reach me via discord **gerome#6969**
 
