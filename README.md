@@ -3,7 +3,7 @@
 
 - Hi, I'm currently working on [RushMC-Network Software](https://github.com/RushMC-Network)
 
-- 📫 How to reach me **discord jaamey.pr**
+
 
 
 
