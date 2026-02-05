@@ -1,8 +1,40 @@
 <h1 align="center">Hi 👋, I'm Jamey</h1>
-<h3 align="center">A software-developer from Germany</h3>
+<h3 align="center">Software Developer from Germany</h3>
 
-<div align="center">
-  
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnEwMXM2cDJiZnBsZ3N6YXNsano0cHYzeGh6cjk4enIyN3ZzYzZxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i7VzLHr1HrSqIOBac4/giphy.gif)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js%2016-TypeScript-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat&logo=mongodb&logoColor=white" />
+</p>
 
-</div>
+---
+
+### 💼 Professional Experience
+In my daily work, I develop **Windows desktop business applications** using  
+**C# (.NET 8)** with **DevExpress XAF**.
+
+I work on maintaining and extending real-world applications, implementing business logic, working with data models, and improving existing codebases.
+
+---
+
+### 🚀 What I Enjoy Working With
+- **Web Development**: Next.js 16, TypeScript, Tailwind CSS  
+- **Backend**: Java with Spring Boot  
+- **Databases**: MongoDB  
+- **Game Development**: Minecraft & Hytale plugin / mod development  
+
+---
+
+### 🛠 Tech Stack
+**Professional**
+- C#, .NET 8  
+- DevExpress XAF  
+
+**Personal & Learning**
+- Java (Spring Boot)  
+- TypeScript, JavaScript  
+- Next.js 16  
+- MongoDB  
+- Lua (past experience)  
+- SQL (working knowledge)
+
