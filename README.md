@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jamey</h1>
-<h3 align="center">Software Developer from Germany</h3>
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Hi, I'm Jamey. Software Developer from Germany. Clawd, the Claude Code mascot, hops by." />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
@@ -14,6 +15,8 @@ In my daily work, I develop **Windows desktop business applications** using
 **C# (.NET 8)** with **DevExpress XAF**.
 
 I work on maintaining and extending real-world applications, implementing business logic, working with data models, and improving existing codebases.
+
+<img src="./assets/thinking.svg" width="100%" alt="Clawd at a laptop, Claude Code style: Flibbertigibbeting…" />
 
 ---
 
@@ -38,3 +41,10 @@ I work on maintaining and extending real-world applications, implementing busine
 - Lua (past experience)  
 - SQL (working knowledge)
 
+<br/>
+
+<p align="center">
+  <img src="./assets/outro.svg" width="100%" alt="Three Clawds: one sleeping, one waving and saying thanks for visiting, one reading" />
+  <br/>
+  <sub>Clawd made with <a href="https://github.com/jaameypr/clawd-md">clawd-md</a></sub>
+</p>
