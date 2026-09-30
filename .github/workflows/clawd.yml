@@ -1,0 +1,31 @@
+# Rebuilds assets/*.svg from clawd.config.json with https://github.com/jaameypr/clawd-md
+# Edit the config (even in the GitHub web editor) and the SVGs update themselves.
+name: Clawd
+
+on:
+  push:
+    paths: ['clawd.config.json']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: jaameypr/clawd-md
+          path: .clawd-md
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node .clawd-md/scripts/build.js clawd.config.json
+      - name: Commit changed SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --cached --quiet || (git commit -m "chore: rebuild Clawd SVGs" && git push)
